@@ -1,7 +1,9 @@
 body{
+
+
 }
 
-H1{
+h1{
   font-family:'pacifo',cursive;
 }
 
@@ -9,4 +11,3 @@ H1{
   background: #00acee;
   border-color: #009ad5;
 }
-.btn
