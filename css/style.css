@@ -3,7 +3,11 @@ body{
 }
 
 h1{
-  font-family:'pacifo',cursive;
+  font-family:'Varela Round', sans-serif;
+  text-align: center;
+}
+
+h6{
   text-align: center;
 }
 
